@@ -3,6 +3,9 @@
 
 Google-certified Data Analyst converting complex datasets into actionable insights using statistical analysis, predictive modeling, and data visualization.
 
+### My Approach
+With an academic foundation in psychology, my analytical focus goes beyond surface-level numbers to uncover the *why* behind the metrics. I leverage behavioral data to understand the human decisions and motivations driving organizational trends, consumer habits, and overall performance.
+
 ---
 
 ### Technical Skills & Competencies
