@@ -1,5 +1,5 @@
 # Hi, I'm Shawn Canty 
-### Behavioral Data Analyst | People Analytics & Behavioral Modeling
+### Junior Data Analyst | People Analytics & Behavioral Modeling
 
 Google-certified Data Analyst converting complex datasets into actionable insights using statistical analysis, predictive modeling, and data visualization.
 
