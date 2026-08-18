@@ -1,5 +1,5 @@
 # Hi, I'm Shawn Canty 
-### Junior Data Analyst | Applied Pyschology & Quantitative Analytics
+### Data Analyst | Applied Psychology & Quantitative Analytics
 
 Google-certified Data Analyst converting complex datasets into actionable insights using statistical analysis, predictive modeling, and data visualization.
 
