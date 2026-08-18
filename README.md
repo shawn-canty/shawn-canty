@@ -18,7 +18,7 @@ Google-certified Data Analyst combining quantitative data modeling with a founda
 
 ### 🚀 Featured Case Studies
 
-#### [NBA Player Performance Predictive Model](https://github.com/shawn-canty/nba-predictive-model-audit)
+### [NBA Player Performance Predictive Model](https://github.com/shawn-canty/nba-predictive-model-audit)
 * **Tech Stack:** Google BigQuery (SQL) · Tableau · Statistical Modeling
 * **Scope & Method:** Retrograde Proof of Concept (PoC) auditing player props across 397 bets, evaluating sportsbook break-even thresholds and directional bias.
 * **Key Finding:** Isolated an edge in Rebound props with a 55.15% win rate exceeding break-even targets, while identifying systemic over-indexing on "More" calls.
