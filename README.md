@@ -1,7 +1,7 @@
 # Hi, I'm Shawn Canty 👋
 
 ### Data Analyst | Behavioral Analytics & Quantitative Modeling
-Google-certified Data Analyst combining quantitative data modeling with an academic foundation in psychology to uncover the behavioral drivers behind business performance.
+Google-certified Data Analyst combining quantitative data modeling with a foundation in psychology to uncover the behavioral drivers behind business performance.
 
 ---
 
