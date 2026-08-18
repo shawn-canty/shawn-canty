@@ -22,6 +22,6 @@ With an academic foundation in psychology, my analytical focus goes beyond surfa
 ---
 
 ### Let's Connect
-* **LinkedIn:** [linkedin.com/in/shawn-canty](https://www.linkedin.com/in/shawn-canty)
-* **Tableau Public:** [public.tableau.com/app/profile/shawn.canty](https://public.tableau.com/app/profile/shawn.canty)
 * **Email:** canty.shawn.m@gmail.com
+* **Tableau Public:** [public.tableau.com/app/profile/shawn.canty](https://public.tableau.com/app/profile/shawn.canty)
+
