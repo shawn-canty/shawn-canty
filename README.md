@@ -10,7 +10,7 @@ Google-certified Data Analyst combining quantitative data modeling with a founda
 | Category | Skills & Tools |
 | :--- | :--- |
 | **Querying & Warehousing** | SQL, Google BigQuery |
-| **BI & Visualization** | Tableau (Public & Desktop), Interactive Dashboard Design, KPI Architecture |
+| **BI & Visualization** | Tableau, Interactive Dashboard Design, KPI Architecture |
 | **Modeling & Spreadsheets** | Advanced Excel (Pivot Tables, Power Query, Statistical Modeling), Google Sheets |
 | **Analytical Methods** | Behavioral Segmentation, Predictive Modeling, Cohort Analysis, EDA, A/B Testing |
 
