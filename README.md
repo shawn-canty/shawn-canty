@@ -21,7 +21,7 @@ Google-certified Data Analyst combining quantitative data modeling with a founda
 * **Scope & Method:** Evaluated customer lifecycle patterns and service add-ons across 7,043 accounts to isolate structural drivers of subscriber attrition.
 * **Key Finding:** Uncovered a 50.4% cancellation rate for Month-to-Month contracts lacking tech support, compounding to 58.4% when paired with electronic check billing.
 * **Business Impact:** Recommended mandatory onboarding incentives for tech support and multi-year contract discounting, projected to reduce first-year churn by 15–20%.
-* **Deliverables:** [Executive Slide Deck (PDF)](https://github.com/shawn-canty/telco-churn-analysis) · [Interactive Excel Dashboard (.xlsx)](https://github.com/shawn-canty/telco-churn-analysis)
+* **Deliverables:** [Executive Slide Deck (PDF)]([https://github.com/shawn-canty/telco-churn-analysis](https://github.com/shawn-canty/telco-churn-analysis/blob/main/telco_executive_slide_deck.pdf)) · [Interactive Excel Dashboard (.xlsx)](https://github.com/shawn-canty/telco-churn-analysis)
 
 #### [Algorithmic Model Audit: Predictive Stability & Error Calibration](https://github.com/shawn-canty/nba-predictive-model-audit)
 * **Tech Stack:** Google BigQuery (SQL) · Tableau · Statistical Modeling · Hypothesis Testing
