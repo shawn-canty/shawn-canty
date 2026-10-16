@@ -22,7 +22,7 @@ Google-certified Behavioral Data Analyst combining an academic foundation in psy
 * **Tech Stack:** Google BigQuery (SQL) · Tableau · Predictive Model Validation · Statistical Error Auditing (MAE)
 * **Scope & Method:** Conducted a retrograde Proof of Concept (PoC) across 397 playoff player props (Points, Rebounds, Assists) to evaluate profitability and algorithmic stability prior to league-wide Phase 2 scaling.
 * **Key Finding:** Halted premature global deployment after uncovering a 64.0%–75.1% directional bias toward "More" (51.64% overall win rate), while isolating a localized 55.15% profitable edge in Rebounds for Phase 1.5 backtesting.
-* **Deliverables:** [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/shawn.canty/viz/NBAPredictiveModelAudit_17543918850160/NBAModelAudit) · [Executive Slide Deck (PDF)](https://github.com/shawn-canty/nba-predictive-model-audit/blob/main/nba_executive_presentation.pdf) · [BigQuery SQL Audit Scripts](https://github.com/shawn-canty/nba-predictive-model-audit/blob/main/nba_model_poc_queries.sql)
+* **Deliverables:** [Interactive Tableau Dashboard](https://public.tableau.com/app/profile/shawn.canty/viz/nba_predictive_model_analysis/Dashboard1) · [Executive Slide Deck (PDF)](https://github.com/shawn-canty/nba-predictive-model-audit/blob/main/nba_executive_presentation.pdf) · [BigQuery SQL Audit Scripts](https://github.com/shawn-canty/nba-predictive-model-audit/blob/main/nba_model_poc_queries.sql)
 
 [Telco Customer Churn & Retention Strategy](https://github.com/shawn-canty/telco-churn-analysis)
 - *Tech Stack:* Advanced Excel (Formulas, Pivot Tables) · Behavioral Segmentation · Risk Modeling
